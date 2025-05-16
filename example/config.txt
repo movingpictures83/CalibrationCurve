@@ -1,0 +1,2 @@
+Prefix plugins/CalibrationCurve/example/
+Plugin CalibrationCurve inputfile lift_results.rds outputfile output.png
